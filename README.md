@@ -3,8 +3,11 @@
 
 ## ⚠️ **Aviso Importante**
 **📁 Este repositório corresponde à aplicação com persistência em MariaDB e MongoDB.**
+
 **Se você está procurando a versão com persistência em MongoDB, acesse a pasta: MVC/demo**
+
 **Se você está procurando a versão com persistência em MongoDB, acesse a pasta: Persistencia de Dados**
+
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green?style=flat&logo=spring)  
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat&logo=java)  
