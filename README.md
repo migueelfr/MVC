@@ -2,7 +2,7 @@
 ## 📌 **Persistência de Dados com Spring Boot (MariaDB, H2 e MongoDB)**  
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green?style=flat&logo=spring)  
-![Java](https://img.shields.io/badge/Java-17-orange?style=flat&logo=java)  
+![Java](https://img.shields.io/badge/Java-21-orange?style=flat&logo=java)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-10-blue?style=flat&logo=mariadb)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?style=flat&logo=mongodb)  
 
