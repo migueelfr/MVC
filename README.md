@@ -6,7 +6,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-10-blue?style=flat&logo=mariadb)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?style=flat&logo=mongodb)  
 
-Este projeto é uma aplicação web no modelo **MVC** utilizando **Spring Boot**, com **persistência de dados** em **MariaDB, H2 e MongoDB**.
+Este projeto é uma aplicação web no modelo **MVC** utilizando **Spring Boot**, com **persistência de dados** em **MariaDB, H2 e MongoDB. A pasta 'MVC.demo' é MONGODB e a 'Persistencia de dados é MARIADB'**.
 
 ---
 
