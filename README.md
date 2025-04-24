@@ -1,12 +1,17 @@
 
 ## 📌 **Persistência de Dados com Spring Boot (MariaDB, H2 e MongoDB)**  
 
+## ⚠️ **Aviso Importante**
+**📁 Este repositório corresponde à aplicação com persistência em MariaDB e MongoDB.**
+**Se você está procurando a versão com persistência em MongoDB, acesse a pasta: MVC/demo**
+**Se você está procurando a versão com persistência em MongoDB, acesse a pasta: Persistencia de Dados**
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green?style=flat&logo=spring)  
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat&logo=java)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-10-blue?style=flat&logo=mariadb)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?style=flat&logo=mongodb)  
 
-Este projeto é uma aplicação web no modelo **MVC** utilizando **Spring Boot**, com **persistência de dados** em **MariaDB, H2 e MongoDB. A pasta 'MVC.demo' é MONGODB e a 'Persistencia de dados é MARIADB'**.
+Este projeto é uma aplicação web no modelo **MVC** utilizando **Spring Boot**, com **persistência de dados** em **MariaDB, H2 e MongoDB.**.
 
 ---
 
